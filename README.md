@@ -3,7 +3,7 @@ Landing page de fest food
 
 
 
-<img width=100% src="https://github.com/Lucasbarbosa332/PoemNaMesa/blob/main/Design%20sem%20nome.png"></img>
+<img width=100% src="https://github.com/Lucasbarbosa332/PoemNaMesa/blob/main/Design_sem_nome-removebg-preview.png"></img>
 
 <br/>
 
