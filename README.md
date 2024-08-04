@@ -62,4 +62,4 @@ O projeto "Põe na Mesa" não apenas apresenta de maneira eficaz as festas gastr
 <h3 align='center'> 🌎 Rodando no navegador</h3>
 
 - Você pode clicar no link para ser redirecionado ao site:
-[Negocieimoveis](https://dmcempresa.netlify.app/)
+[Poem na mesa](https://poemnamesa.netlify.app/)
