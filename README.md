@@ -7,12 +7,12 @@ Landing page de fest food
 
 <br/>
 
-##Projeto "Põe na Mesa"
+## Projeto "Põe na Mesa"
 
 O projeto "Põe na Mesa" é uma landing page para um restaurante que promove festas gastronômicas. O objetivo principal desta página é atrair visitantes e fornecer informações detalhadas sobre os eventos culinários do restaurante, incentivando os usuários a participarem e fazerem reservas.
 
 
-##Tecnologias Utilizadas:
+## Tecnologias Utilizadas:
 
 HTML: Utilizado para estruturar o conteúdo da página.
 CSS: Responsável pela estilização, garantindo que a página tenha um design atrativo e uma boa experiência de usuário.
